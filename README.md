@@ -6,3 +6,9 @@
 * git config --global core.autocrlf input
 
 > vim环境
+* set number
+* set mouse=n
+* set tabstop=4
+* set softtabstop=4
+* set expandtab
+* set shiftwidth=4
